@@ -1,0 +1,5 @@
+@IdP_HostAddress = http://localhost:5237
+
+GET {{IdP_HostAddress}}/authorization/
+
+###
